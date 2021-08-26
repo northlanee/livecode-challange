@@ -1,0 +1,25 @@
+.counter {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.buttons button {
+  margin-bottom: 10px;
+}
+
+.counterWrapper {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: beige;
+  border-radius: 3px;
+  margin: 0 auto;
+}
